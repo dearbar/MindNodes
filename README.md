@@ -4,12 +4,13 @@
 - 文章索引
 - 项目地址
 
-## [如何学习](https://github.com/dearbar/MindNodes/tree/master/%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0)
+## [更好的自己](https://github.com/dearbar/MindNodes/tree/master/%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0)
 
 - [如何善用思维导图读书](http://m.quzhiboapp.com/#!/intro/125)
 - [为什么越学越蠢？碎片化阅读就是一个大骗局！](https://www.jianshu.com/p/f98e81fb77a4)
+- [如何打败拖延](https://waitbutwhy.com/cn/%E5%A6%82%E4%BD%95%E6%89%93%E8%B4%A5%E6%8B%96%E5%BB%B6%E7%97%87)
 
-## iOS
+## [iOS](https://github.com/dearbar/MindNodes/tree/master/iOS)
 
 - [JavaScriptCore](https://developer.apple.com/documentation/javascriptcore?language=occ)
 - [iOS 保持界面流畅的技巧](https://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
@@ -26,10 +27,10 @@
 - [Programming with Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 - [如何写好一个UITableView](https://juejin.im/post/5a309c56f265da43094524be)
 
-## 技能清单
+## [技能清单](https://github.com/dearbar/MindNodes/tree/master/%E6%8A%80%E8%83%BD%E6%B8%85%E5%8D%95)
 - [iOS Roadmap to Professional Developer: Skills you MUST have!](https://www.youtube.com/watch?v=pbhLZMVBlp0&t=65s)
 
-## 音视频
+## [音视频](https://github.com/dearbar/MindNodes/tree/master/%E9%9F%B3%E8%A7%86%E9%A2%91)
 
 - [音视频开发进阶指南：基于 Android 与 iOS 平台的实践](https://www.zhihu.com/pub/book/119560110)
 - [Audio Queue Services Programming Guide](https://developer.apple.com/library/archive/documentation/MusicAudio/Conceptual/AudioQueueProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005343-CH1-SW1)

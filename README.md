@@ -26,6 +26,7 @@
 - [UIBezierPath](https://developer.apple.com/documentation/uikit/uibezierpath)
 - [Programming with Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 - [如何写好一个UITableView](https://juejin.im/post/5a309c56f265da43094524be)
+- [iOS Performance tips](https://www.fadel.io/blog/posts/ios-performance-tips-you-probably-didnt-know/)
 
 ## [技能清单](https://github.com/dearbar/MindNodes/tree/master/%E6%8A%80%E8%83%BD%E6%B8%85%E5%8D%95)
 - [iOS Roadmap to Professional Developer: Skills you MUST have!](https://www.youtube.com/watch?v=pbhLZMVBlp0&t=65s)
